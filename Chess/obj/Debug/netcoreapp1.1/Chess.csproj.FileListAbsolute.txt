@@ -1,0 +1,9 @@
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\bin\Debug\netcoreapp1.1\Chess.deps.json
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\bin\Debug\netcoreapp1.1\Chess.runtimeconfig.json
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\bin\Debug\netcoreapp1.1\Chess.runtimeconfig.dev.json
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\bin\Debug\netcoreapp1.1\Chess.dll
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\bin\Debug\netcoreapp1.1\Chess.pdb
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\obj\Debug\netcoreapp1.1\Chess.csprojResolveAssemblyReference.cache
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\obj\Debug\netcoreapp1.1\Chess.AssemblyInfo.cs
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\obj\Debug\netcoreapp1.1\Chess.dll
+C:\Users\armbrujl\Desktop\Test\Test2\Chess\Chess\obj\Debug\netcoreapp1.1\Chess.pdb
